@@ -1,7 +1,7 @@
 /* eslint-disable security/detect-object-injection */
-import type { TableKind, TableRow } from './types.js';
+import type { TableKind, TableRow } from './types.ts';
 
-import { Builder } from './builder.js';
+import { Builder } from './builder.ts';
 
 /**
  * Builder for GitHub-flavored Markdown tables.

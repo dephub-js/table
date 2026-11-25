@@ -1,6 +1,6 @@
 import type { TableKind, TableRow } from './types.ts';
 
-import { Builder } from './builder.js';
+import { Builder } from './builder.ts';
 
 /**
  * Builder for custom output format.

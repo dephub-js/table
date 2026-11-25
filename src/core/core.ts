@@ -1,8 +1,8 @@
-export * from './builder.js';
-export * from './csv.js';
-export * from './custom.js';
-export * from './html.js';
-export * from './json.js';
-export * from './md.js';
-export * from './text.js';
-export type * from './types.js';
+export * from './builder.ts';
+export * from './csv.ts';
+export * from './custom.ts';
+export * from './html.ts';
+export * from './json.ts';
+export * from './md.ts';
+export * from './text.ts';
+export type * from './types.ts';

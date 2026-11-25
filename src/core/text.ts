@@ -1,7 +1,7 @@
 /* eslint-disable security/detect-object-injection */
-import type { TableKind } from './types.js';
+import type { TableKind } from './types.ts';
 
-import { Builder } from './builder.js';
+import { Builder } from './builder.ts';
 
 /**
  * Builder for plain text table output.

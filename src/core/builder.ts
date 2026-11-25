@@ -1,6 +1,6 @@
-import { TableError } from '@/utils/error.js';
+import { TableError } from '#/utils/error.ts';
 
-import type { TableCell, TableKind, TableRow } from './types.js';
+import type { TableCell, TableKind, TableRow } from './types.ts';
 
 /**
  * Base class for building tables row-by-row.
